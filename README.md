@@ -9,7 +9,7 @@ All you need is proton-cli installed on your machine
 ## Fedora
 `sudo dnf install proton-vpn-cli`
 ## Arch
-`sudo pacman -S install proton-vpn-cli`
+`sudo pacman -S proton-vpn-cli`
 
 Note : If you have any issues with installing the software please check out [proton's official website](https://protonvpn.com/support/linux-cli)
 Also, this program is made solely for the purpose of making it easier to use the CLI version. You are much better off using the official app GUI if you prefer better UX
